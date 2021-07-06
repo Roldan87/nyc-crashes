@@ -44,7 +44,7 @@ I am well-equipped to handle this!
 
 >`Readme.md`
 >
->`crash_cleaning.iypnb`<br/>
+>`crash_cleaning.ipynb`<br/>
 >
 >`nyc_crash_dataset.csv`
 >
