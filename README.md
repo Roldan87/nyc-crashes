@@ -37,5 +37,5 @@ I am sure that you are well-equipped to handle this.
 
 `Int64Index: 91965 entries, 225766 to 4353706`<br/>
 `Data columns (total 74 columns):`<br/>
-`dtypes: float64(2), int64(10), uint8(62)`
-`memory usage: 14.6 MB`
+`dtypes: float64(2), int64(10), uint8(62)`<br/>
+`memory usage: 14.6 MB`<br/>
