@@ -35,7 +35,7 @@ I am sure that you are well-equipped to handle this.
 
 ## Final Dataset
 
-`Int64Index: 100000 entries, 2568 to 4353706`<br/>
-`Data columns (total 75 columns)`<br/>
-`dtypes: float64(2), int64(11), uint8(62)`<br/>
-`memory usage: 16.6 MB`<br/>
+`Int64Index: 91965 entries, 225766 to 4353706`<br/>
+`Data columns (total 74 columns):`<br/>
+`dtypes: float64(2), int64(10), uint8(62)`
+`memory usage: 14.6 MB`
