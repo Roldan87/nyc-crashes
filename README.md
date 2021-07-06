@@ -24,11 +24,16 @@ I am sure that you are well-equipped to handle this.
 >
 >6. collision_id set as Index
 >
->7. NaN values filled with new cat ('unknown' / 'unspecified')
+>7. narrow cars_types and contributing_factors (replace)
 >
->8. narrow cars_types and contributing_factors (replace)
+>8. One Hot Encode (car_types & contributing_factors)
 >
->9. One Hot Encode (car_types & contributing_factors)
+>9. Write to csv file
 >
->10. Write to csv file
->
+
+## Final Dataset
+
+`Int64Index: 100000 entries, 2568 to 4353706`
+`Data columns (total 75 columns)`
+`dtypes: float64(2), int64(11), uint8(62)`
+`memory usage: 16.6 MB`
