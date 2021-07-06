@@ -28,12 +28,14 @@ I am sure that you are well-equipped to handle this.
 >
 >8. One Hot Encode (car_types & contributing_factors)
 >
->9. Write to csv file
+>9. Drop NaN values rows
+>
+>10. Write to csv file
 >
 
 ## Final Dataset
 
-`Int64Index: 100000 entries, 2568 to 4353706`
-`Data columns (total 75 columns)`
-`dtypes: float64(2), int64(11), uint8(62)`
-`memory usage: 16.6 MB`
+`Int64Index: 100000 entries, 2568 to 4353706`<br/>
+`Data columns (total 75 columns)`<br/>
+`dtypes: float64(2), int64(11), uint8(62)`<br/>
+`memory usage: 16.6 MB`<br/>
