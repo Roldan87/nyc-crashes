@@ -8,7 +8,7 @@ Bill de Blasio, mayor of New York City, is in a bit of a pickle. Indeed, his pol
 
 What he wants exactly is to predict which streets are the most dangerous while visiting the city that never sleeps.
 
-I am sure that you are well-equipped to handle this. 
+I am well-equipped to handle this!
 
 ## Data Cleaning
 
@@ -39,3 +39,12 @@ I am sure that you are well-equipped to handle this.
 `Data columns (total 74 columns):`<br/>
 `dtypes: float64(2), int64(10), uint8(62)`<br/>
 `memory usage: 14.6 MB`<br/>
+
+## Files included
+
+>`Readme.md`
+>
+>`crash_cleaning.iypnb`<br/>
+>
+>`nyc_crash_dataset.csv`
+>
